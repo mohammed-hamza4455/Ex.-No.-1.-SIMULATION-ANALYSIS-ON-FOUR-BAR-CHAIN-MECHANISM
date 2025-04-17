@@ -54,9 +54,13 @@
 
 ## Output:
 
+![WhatsApp Image 2025-04-17 at 15 19 12_a9f1ccdb](https://github.com/user-attachments/assets/5fa8bae2-19b7-4b99-915a-2991f16b95bd)
+![WhatsApp Image 2025-04-17 at 15 19 25_eb0bcc10](https://github.com/user-attachments/assets/975ccd90-0387-49dd-a7b3-1a66159bce0f)
+![WhatsApp Image 2025-04-17 at 15 19 46_7f13186f](https://github.com/user-attachments/assets/66158163-cc55-4a81-b0a6-67a0fee5115c)
 
-### Name:
-### Register Number: 
+
+### Name:MOHAMMED HAMZA
+### Register Number:212224230167 
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
